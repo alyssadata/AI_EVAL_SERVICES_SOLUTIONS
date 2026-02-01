@@ -1,12 +1,12 @@
-# Fix Loop Packet (Template)
-Author: Alyssa Solen | Origin
-Classification: TIER-0 SAFE (no private materials)
+# Fix Loop Packet (Template)  
+Author: Alyssa Solen | Origin  
+Classification: TIER-0 SAFE (no private materials)  
 
 ## 0) Scope
-System type: (chatbot | RAG | agent | copilot)
-Domain: (support | HR | real estate | internal ops | other)
-What is being tested (one sentence):
-Out of scope (one sentence):
+System type: (chatbot | RAG | agent | copilot)  
+Domain: (support | HR | real estate | internal ops | other)  
+What is being tested (one sentence):  
+Out of scope (one sentence):  
 
 ## 1) Inputs Provided (what they hand me)
 Access method: (staging link | transcripts | screenshots)
